@@ -1,2 +1,31 @@
-# basketballGame
-a backetball game build with Vue2
+# Basketball Game By [dogrod](https://github.com/dogrod)
+> a basketball game build with Vue2 / vue-router / vuex / flow / jade / stylus
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+---
+> This template is created by Vue-cli
+
+> For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
